@@ -1,4 +1,4 @@
-console.log("hello world");
+console.log("I caused a merge conflict.");
 
 function addNumbers(a, b) {
     return a + b;
