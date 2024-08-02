@@ -41,14 +41,17 @@ node index.js
 
 
 ## Course weeks and its content 
-Week 1 - Introduction to JavaScript and Node.js
-Week 2 - Code Version Control with Git and GitHub
-Week 3 - NodeJS as a Server
-Week 4 - Angular
-Week 5 - Data Persistence, Services, and HTTP Requests to a Server
-Week 6 - Reactive Programming and Sockets
-Working on Assignment Phase 1
-Week 8 - NoSQL Database and MongoDB
-Week 9 - MongoDB via NodeJS and Angular
-Week 10 - Unit and Integration Testing
-Week 11 - End-to-End Testing
+| **Week** | **Content** |
+|----------|-------------|
+| Week 1   | Introduction to JavaScript and Node.js |
+| Week 2   | Code Version Control with Git and GitHub |
+| Week 3   | NodeJS as a Server |
+| Week 4   | Angular |
+| Week 5   | Data Persistence, Services, and HTTP Requests to a Server |
+| Week 6   | Reactive Programming and Sockets |
+| -        | Working on Assignment Phase 1 |
+| Week 8   | NoSQL Database and MongoDB |
+| Week 9   | MongoDB via NodeJS and Angular |
+| Week 10  | Unit and Integration Testing |
+| Week 11  | End-to-End Testing |
+
